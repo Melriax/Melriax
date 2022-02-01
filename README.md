@@ -1,4 +1,4 @@
-## Hey, everyone!  <img src="https://github.com/Melriax/Melriax/blob/main/wave.gif" width="30px"/>
+<!-- ## Hey, everyone!  <img src="https://github.com/Melriax/Melriax/blob/main/wave.gif" width="30px"/> -->
 
 ```python
 #!/usr/bin/python
